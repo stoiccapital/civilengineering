@@ -2,7 +2,6 @@ import React from 'react';
 import type { SectionHeroCopy } from '../config/types';
 import { CTAButton } from '../components/ui/CTAButton';
 import { CTAGroup } from '../components/ui/CTAGroup';
-import { HeroLpPreviewMock } from '../components/ui/mocks';
 import { SplitGrid } from '../components/layouts/SplitGrid';
 import { CenteredLayout } from '../components/layouts/CenteredLayout';
 import { spacing, typography, maxTextWidth, globalBackground, ColorTheme } from '../config/design-system';
@@ -42,7 +41,9 @@ export function Hero({ copy, theme }: HeroProps) {
               </CTAGroup>
             </div>
           </div>
-          <HeroLpPreviewMock variant="single" />
+          <div className="h-full min-h-[360px] rounded-2xl border border-border-subtle bg-bg-neutral/40 flex items-center justify-center">
+            <span className={`${typography.label} text-text-muted`}>Frame</span>
+          </div>
         </SplitGrid>
       </CenteredLayout>
     </section>

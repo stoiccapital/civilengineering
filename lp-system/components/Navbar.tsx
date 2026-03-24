@@ -3,8 +3,6 @@
 import React, { useState } from 'react';
 import { spacing, layout, navbar, ColorTheme } from '../config/design-system';
 import { CTAButton } from './ui/CTAButton';
-import { LocaleToggle } from './ui/LocaleToggle';
-import { ThemeToggle } from './ui/ThemeToggle';
 
 export type NavbarLabels = {
   brand: string;
@@ -31,6 +29,7 @@ export type NavbarProps = {
 };
 
 export function Navbar({ theme, labels, locale }: NavbarProps) {
+  void locale; // Locale switching is intentionally disabled
   const [isOpen, setIsOpen] = useState(false);
 
   // Scroll to section handler
@@ -97,12 +96,10 @@ export function Navbar({ theme, labels, locale }: NavbarProps) {
             ))}
           </div>
           
-          {/* Right: Toggle Cluster + CTA + Hamburger (Mobile) */}
+          {/* Right: CTA + Hamburger (Mobile) */}
           <div className={`flex items-center ${spacing.gap.sm}`}>
-            {/* Toggle Cluster (Desktop): LocaleToggle, ThemeToggle, CTA */}
+            {/* Desktop: CTA */}
             <div className={`hidden md:flex items-center ${spacing.gap.sm}`}>
-              <LocaleToggle />
-              <ThemeToggle />
               <CTAButton variant="primary" theme={theme} label={labels.cta} />
             </div>
 
@@ -152,12 +149,6 @@ export function Navbar({ theme, labels, locale }: NavbarProps) {
             className={`md:hidden border-t ${navbar.borderColor} ${spacing.block.y.md}`}
           >
             <div className={`flex flex-col ${spacing.block.y.md}`}>
-              {/* Toggle Cluster (Mobile): LocaleToggle, ThemeToggle */}
-              <div className={`flex items-center ${spacing.gap.sm} ${spacing.block.y.sm}`}>
-                <LocaleToggle />
-                <ThemeToggle />
-              </div>
-
               {/* Navigation Links (Mobile) */}
               {navLinks.map((link) => (
                 <a

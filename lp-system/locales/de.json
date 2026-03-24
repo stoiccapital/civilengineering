@@ -1,449 +1,460 @@
 {
   "agency-lp": {
     "hero": {
-      "eyebrow": "Landing Pages",
-      "title": "High-quality landing pages, built fast",
-      "subtitle": "Professional landing pages designed for conversion and built for speed.",
-      "primaryCtaLabel": "Get Started",
-      "secondaryCtaLabel": "Learn More"
+      "eyebrow": "Für Planungs- und Ingenieurbüros",
+      "title": "Operative Steuerung für laufende Projekte.",
+      "subtitle": "Wenn Projekte über Excel, E-Mail und Einzelwissen laufen, entstehen Reibungsverluste. Unsere Software schafft klare Zuständigkeiten, verlässliche Kapazitätsplanung und Transparenz über Status, Risiken und Marge.",
+      "primaryCtaLabel": "Pilotgespräch anfragen",
+      "secondaryCtaLabel": "Frühen Zugang sichern"
     },
     "socialProof": {
+      "label": "In Validierung mit ausgewählten Büros"
     },
     "valueProps": {
-      "heading": "Everything you need",
-      "subtitle": "Professional landing pages that convert",
+      "heading": "Wo operative Steuerung heute ausfällt",
+      "subtitle": "Bekannte Muster aus dem Projektalltag in vielen Büros",
       "items": [
         {
-          "title": "Fast Delivery",
-          "body": "Get your landing page live in days, not weeks."
+          "title": "Excel-Chaos statt gemeinsamer Sicht",
+          "body": "Projektstände liegen in mehreren Listen mit unterschiedlichem Aktualitätsstand."
         },
         {
-          "title": "Conversion-Focused",
-          "body": "Built with proven patterns that drive results."
+          "title": "Verteilte Abläufe",
+          "body": "Informationen sind über E-Mail, DMS, PM-Tools und Köpfe verteilt."
         },
         {
-          "title": "Fully Responsive",
-          "body": "Perfect on every device, every screen size."
+          "title": "Unklare Zuständigkeiten",
+          "body": "Wer bis wann liefert, ist nicht durchgängig dokumentiert und nachvollziehbar."
+        },
+        {
+          "title": "Schwache Projektübergaben",
+          "body": "Bei Wechseln zwischen Rollen gehen Kontext und Entscheidungen verloren."
+        },
+        {
+          "title": "Risiken werden spät sichtbar",
+          "body": "Abweichungen bei Termin, Aufwand und Marge werden oft erst erkannt, wenn Gegenmaßnahmen teuer sind."
         }
       ]
     },
     "features": {
-      "heading": "Built for results",
-      "subtitle": "Everything that makes landing pages perform",
+      "heading": "Ein operatives Betriebssystem für Projekte",
+      "subtitle": "Fokus auf Steuerung von Projekten, Kapazität und Wirtschaftlichkeit",
       "items": [
         {
-          "title": "Conversion-Optimized Structure",
-          "body": "Every section designed to guide visitors toward your goal."
+          "title": "Projektsteuerung mit klarem Verantwortungsmodell",
+          "body": "Aufgaben, Entscheidungen und offene Punkte sind je Projektphase eindeutig zugeordnet."
         },
         {
-          "title": "Fast Load Times",
-          "body": "Optimized code and assets for instant page loads."
+          "title": "Verbindliche Übergaben",
+          "body": "Übergabepunkte zwischen Bereich, Projektleitung und Team sind standardisiert und nachvollziehbar."
         },
         {
-          "title": "Clean, Modern Design",
-          "body": "Professional aesthetics that build trust and engagement."
+          "title": "Laufende Kapazitäts- und Risikoübersicht",
+          "body": "Engpässe, Terminrisiken und operative Konflikte werden früh erkennbar."
+        },
+        {
+          "title": "Wirtschaftlichkeit im Tagesgeschäft",
+          "body": "Aufwands- und Ergebnisabweichungen werden fortlaufend sichtbar, nicht erst im Nachlauf."
         }
       ]
     },
     "deepDive": {
-      "heading": "How it works",
-      "subtitle": "Get your landing page in three simple steps",
+      "heading": "So läuft ein Pilot ab",
+      "subtitle": "Pragmatisch, fokussiert, mit echten Projektdaten",
       "steps": [
         {
-          "title": "Share your requirements",
-          "body": "Tell us what you need and we'll match you with the right structure."
+          "title": "Ist-Aufnahme der Steuerung",
+          "body": "Wir identifizieren gemeinsam, wo heute Steuerung zwischen Rollen und Tools verloren geht."
         },
         {
-          "title": "We build your page",
-          "body": "Our team builds your landing page with your content and branding."
+          "title": "Abbildung der Kernprozesse",
+          "body": "Projektstatus, Zuständigkeiten, Übergaben und Kapazität werden in einem einheitlichen Ablauf modelliert."
         },
         {
-          "title": "Review and launch",
-          "body": "Review your page, make adjustments, and go live when ready."
+          "title": "Test im laufenden Betrieb",
+          "body": "Sie prüfen den Ansatz an realen Projekten und bewerten Nutzen, Aufwand und Fit für Ihr Büro."
         }
       ]
     },
     "useCases": {
-      "heading": "Perfect for",
-      "subtitle": "Ideal for every stage of growth",
+      "heading": "Für wen der Ansatz gedacht ist",
+      "subtitle": "Für Büros mit mehreren parallelen Projekten und hoher Koordinationslast",
       "items": [
         {
-          "title": "Product Launches",
-          "body": "Get a professional landing page fast for your next launch."
+          "title": "Geschäftsführer",
+          "body": "Benötigen eine verlässliche Sicht auf Projektstatus, Auslastung, Risiken und Ergebnisbeitrag."
         },
         {
-          "title": "Marketing Campaigns",
-          "body": "Create dedicated pages for each campaign without the wait."
+          "title": "Bereichsleiter",
+          "body": "Steuern Ressourcen über mehrere Projekte und müssen Prioritäten belastbar setzen."
         },
         {
-          "title": "Agencies",
-          "body": "Deliver client work faster with consistent, high-quality pages."
+          "title": "Projektleiter",
+          "body": "Brauchen klare Zuständigkeiten und saubere Übergaben, um Termine und Budgets stabil zu führen."
         }
       ]
     },
     "integrations": {
-      "heading": "Works with your stack",
-      "subtitle": "Easy handoff to your existing tools",
+      "heading": "Anschluss an bestehende Arbeitsmittel",
+      "subtitle": "Nicht als Ersatz für alles, sondern als Steuerungsebene",
       "integrations": [
-        { "name": "Vercel" },
-        { "name": "Netlify" },
-        { "name": "CMS" },
-        { "name": "Analytics" },
-        { "name": "Stripe" },
-        { "name": "Email Tools" }
+        {
+          "name": "E-Mail"
+        },
+        {
+          "name": "DMS"
+        },
+        {
+          "name": "Projektmanagement-Tools"
+        },
+        {
+          "name": "Zeiterfassung"
+        },
+        {
+          "name": "Controlling"
+        },
+        {
+          "name": "Reporting"
+        }
       ]
     },
     "security": {
-      "heading": "Code quality",
-      "subtitle": "Production-ready code you can trust",
+      "heading": "Konkreter operativer Nutzen",
+      "subtitle": "Verbesserungen, die im Tagesgeschäft messbar werden",
       "items": [
         {
-          "title": "Clean Codebase",
-          "body": "Well-structured, maintainable code that follows best practices."
+          "title": "Frühere Eskalation statt Feuerwehrmodus",
+          "body": "Risiken werden vor Terminverzug und Margenschaden sichtbar."
         },
         {
-          "title": "SEO Optimized",
-          "body": "Built with performance and search visibility in mind."
+          "title": "Weniger Reibung in Abstimmung und Übergabe",
+          "body": "Weniger Nachfragen, weniger Doppelarbeit, weniger Informationsverlust."
         },
         {
-          "title": "Fully Responsive",
-          "body": "Tested across devices to ensure flawless display everywhere."
+          "title": "Belastbarere Steuerungsentscheidungen",
+          "body": "Führung entscheidet auf Basis eines gemeinsamen, aktuellen Projektbilds."
         }
       ]
     },
     "metrics": {
-      "heading": "Proven performance",
-      "subtitle": "Results that speak for themselves",
+      "heading": "Was Sie operativ gewinnen",
+      "subtitle": "4 zentrale Effekte für Projektführung und Profitabilität",
       "metrics": [
         {
-          "value": "40%",
-          "label": "Higher Conversion",
-          "description": "Average increase in conversion rates"
+          "value": "Mehr",
+          "label": "Verantwortungsklarheit",
+          "description": "Zuständigkeiten und nächste Schritte sind je Projektphase eindeutig."
         },
         {
-          "value": "3 Days",
-          "label": "Average Build Time",
-          "description": "From brief to live landing page"
+          "value": "Früher",
+          "label": "Risikotransparenz",
+          "description": "Termin-, Kapazitäts- und Ergebnisrisiken werden rechtzeitig sichtbar."
         },
         {
-          "value": "98%",
-          "label": "Client Satisfaction",
-          "description": "Teams choose us for repeat projects"
+          "value": "Weniger",
+          "label": "Steuerungsverlust",
+          "description": "Übergaben und Abstimmungen laufen strukturiert statt ad hoc."
+        },
+        {
+          "value": "Stabiler",
+          "label": "Projektmarge",
+          "description": "Abweichungen werden früher adressiert, bevor sie Ergebnis kosten."
         }
       ]
     },
     "pricing": {
-      "heading": "Simple pricing",
-      "subtitle": "Choose the plan that works for you",
+      "heading": "Pilot statt Vollrollout",
+      "subtitle": "Für den Demand-Test zählen Passung und Wirkung",
       "plans": [
         {
-          "name": "Single Page",
-          "price": "$1,299",
-          "description": "One landing page",
+          "name": "Pilotphase",
+          "price": "Auf Anfrage",
+          "description": "Validierung im realen Projektbetrieb",
           "features": [
-            "1 landing page",
-            "Mobile responsive",
-            "Basic revisions",
-            "Source code included"
+            "Analyse der aktuellen Steuerungspraxis",
+            "Abbildung zentraler Projekt- und Kapazitätsprozesse",
+            "Begleitete Einführung mit ausgewählten Projekten",
+            "Gemeinsame Auswertung von Nutzen und Fit"
           ],
-          "ctaLabel": "Get Started"
-        },
-        {
-          "name": "Package",
-          "price": "$2,999",
-          "description": "Multiple pages",
-          "features": [
-            "3 landing pages",
-            "Custom design options",
-            "Extended revisions",
-            "Priority support"
-          ],
-          "ctaLabel": "Get Started"
-        },
-        {
-          "name": "Enterprise",
-          "price": "Custom",
-          "description": "For agencies and teams",
-          "features": [
-            "Unlimited pages",
-            "Dedicated account manager",
-            "Custom integrations",
-            "Ongoing support"
-          ],
-          "ctaLabel": "Contact Sales"
+          "ctaLabel": "Pilotgespräch anfragen"
         }
       ]
     },
     "faq": {
-      "heading": "Frequently asked questions",
-      "subtitle": "Everything you need to know",
+      "heading": "Häufige Fragen zum Pilot",
+      "subtitle": "Kurz und konkret",
       "items": [
         {
-          "question": "How long does it take?",
-          "answer": "Most landing pages are completed within 3-5 business days from final content approval."
+          "question": "Ersetzen wir damit unser bestehendes ERP?",
+          "answer": "Nein. Der Fokus liegt auf operativer Projektsteuerung, nicht auf einem generischen ERP-Ansatz."
         },
         {
-          "question": "Can I make changes after delivery?",
-          "answer": "Yes, each plan includes revision rounds. You receive the source code to make updates yourself."
+          "question": "Müssen wir alle Tools ablösen?",
+          "answer": "Nein. Die Lösung setzt als Steuerungsebene auf bestehende Arbeitsmittel auf."
         },
         {
-          "question": "What do I need to provide?",
-          "answer": "Content, branding assets, and your goals. We handle design, development, and optimization."
+          "question": "Für welche Büros ist das sinnvoll?",
+          "answer": "Für Planungs- und Ingenieurbüros mit mehreren parallelen Projekten und spürbarer Koordinationslast."
         }
       ]
     },
     "testimonials": {
-      "heading": "What our customers say",
-      "subtitle": "Trusted by founders and agencies",
+      "heading": "Stimmen aus Pilotgesprächen",
+      "subtitle": "Typische Rückmeldungen aus der Zielgruppe",
       "testimonials": [
         {
-          "quote": "We needed a landing page fast for our product launch. They delivered exactly what we needed in three days.",
-          "name": "Sarah Johnson",
-          "role": "Founder, TechCorp",
-          "metric": "40% conversion rate"
+          "quote": "Genau diese Lücke haben wir zwischen Projektleitung und Bereichssteuerung.",
+          "name": "Geschäftsführer",
+          "role": "Ingenieurbüro",
+          "metric": "Mehr Steuerungssicherheit"
         },
         {
-          "quote": "The quality is exceptional and the speed is unmatched. Best investment we made this quarter.",
-          "name": "Michael Chen",
-          "role": "Marketing Director, StartupXYZ",
-          "metric": "3x faster launch"
+          "quote": "Wenn wir Risiken zwei Wochen früher sehen, sparen wir echte Marge.",
+          "name": "Bereichsleiter",
+          "role": "Fachplanung",
+          "metric": "Frühere Gegenmaßnahmen"
         },
         {
-          "quote": "As an agency, we use them for all our client landing pages. Consistent quality every time.",
-          "name": "Emma Williams",
-          "role": "Creative Director, GrowthCo",
-          "metric": "98% client satisfaction"
+          "quote": "Für uns zählt, dass Verantwortungen und Übergaben endlich sauber geführt werden.",
+          "name": "Projektleiter",
+          "role": "Planungsbüro",
+          "metric": "Weniger Reibungsverluste"
         }
       ]
     },
     "finalCta": {
-      "heading": "Ready to get started?",
-      "subtitle": "Join hundreds of teams with high-converting landing pages",
-      "ctaLabel": "Get Started Today"
+      "heading": "Operative Steuerung im eigenen Büro testen",
+      "subtitle": "Wir suchen Pilotpartner für frühes Feedback. Im Gespräch prüfen wir gemeinsam, ob der Ansatz zu Ihrer Projektlandschaft passt.",
+      "ctaLabel": "Frühen Zugang sichern"
     }
   },
   "example-lp": {
     "hero": {
-      "eyebrow": "Produktisierte Landing Pages",
-      "title": "Enterprise-Qualität Landing Pages, geliefert in einer Woche",
-      "subtitle": "Produkt-Qualität Landing Pages und Mehrseiten-Websites für Agenturen. Scope vorab definiert, vorhersagbare Lieferung.",
-      "primaryCtaLabel": "Loslegen",
-      "secondaryCtaLabel": "Mehr erfahren"
+      "eyebrow": "Für Planungs- und Ingenieurbüros",
+      "title": "Operative Steuerung für laufende Projekte.",
+      "subtitle": "Wenn Projekte über Excel, E-Mail und Einzelwissen laufen, entstehen Reibungsverluste. Unsere Software schafft klare Zuständigkeiten, verlässliche Kapazitätsplanung und Transparenz über Status, Risiken und Marge.",
+      "primaryCtaLabel": "Pilotgespräch anfragen",
+      "secondaryCtaLabel": "Frühen Zugang sichern"
     },
     "socialProof": {
+      "label": "In Validierung mit ausgewählten Büros"
     },
     "valueProps": {
-      "heading": "Alles was Sie brauchen",
-      "subtitle": "Professionelle Landing Pages, die konvertieren",
+      "heading": "Wo operative Steuerung heute ausfällt",
+      "subtitle": "Bekannte Muster aus dem Projektalltag in vielen Büros",
       "items": [
         {
-          "title": "Eine Woche Lieferzeit",
-          "body": "Von den Anforderungen bis zur deployeden Website in einer Woche."
+          "title": "Excel-Chaos statt gemeinsamer Sicht",
+          "body": "Projektstände liegen in mehreren Listen mit unterschiedlichem Aktualitätsstand."
         },
         {
-          "title": "Konsistentes System",
-          "body": "Enterprise-Qualität Struktur und Muster jedes Mal."
+          "title": "Verteilte Abläufe",
+          "body": "Informationen sind über E-Mail, DMS, PM-Tools und Köpfe verteilt."
         },
         {
-          "title": "Performance-Ready",
-          "body": "Optimierter Code, responsive Design, SEO-fähige Struktur."
+          "title": "Unklare Zuständigkeiten",
+          "body": "Wer bis wann liefert, ist nicht durchgängig dokumentiert und nachvollziehbar."
+        },
+        {
+          "title": "Schwache Projektübergaben",
+          "body": "Bei Wechseln zwischen Rollen gehen Kontext und Entscheidungen verloren."
+        },
+        {
+          "title": "Risiken werden spät sichtbar",
+          "body": "Abweichungen bei Termin, Aufwand und Marge werden oft erst erkannt, wenn Gegenmaßnahmen teuer sind."
         }
       ]
     },
     "features": {
-      "heading": "Gebaut für Ergebnisse",
-      "subtitle": "Alles, was Landing Pages zum Erfolg führt",
+      "heading": "Ein operatives Betriebssystem für Projekte",
+      "subtitle": "Fokus auf Steuerung von Projekten, Kapazität und Wirtschaftlichkeit",
       "items": [
         {
-          "title": "Zweisprachiger Copy Inklusive",
-          "body": "Deutscher und englischer Copy standardmäßig enthalten."
+          "title": "Projektsteuerung mit klarem Verantwortungsmodell",
+          "body": "Aufgaben, Entscheidungen und offene Punkte sind je Projektphase eindeutig zugeordnet."
         },
         {
-          "title": "Performance-Optimierung",
-          "body": "Schnelle Ladezeiten und optimierte Assets von Anfang an."
+          "title": "Verbindliche Übergaben",
+          "body": "Übergabepunkte zwischen Bereich, Projektleitung und Team sind standardisiert und nachvollziehbar."
         },
         {
-          "title": "Deployment-Ready",
-          "body": "Deployed und einsatzbereit, Quellcode inklusive."
+          "title": "Laufende Kapazitäts- und Risikoübersicht",
+          "body": "Engpässe, Terminrisiken und operative Konflikte werden früh erkennbar."
+        },
+        {
+          "title": "Wirtschaftlichkeit im Tagesgeschäft",
+          "body": "Aufwands- und Ergebnisabweichungen werden fortlaufend sichtbar, nicht erst im Nachlauf."
         }
       ]
     },
     "deepDive": {
-      "heading": "Wie es funktioniert",
-      "subtitle": "Eine Woche vom Start bis zum Launch",
+      "heading": "So läuft ein Pilot ab",
+      "subtitle": "Pragmatisch, fokussiert, mit echten Projektdaten",
       "steps": [
         {
-          "title": "Scope vorab definieren",
-          "body": "Teilen Sie Anforderungen, Ziele und Brand-Assets mit. Scope wird vor Beginn der Arbeit definiert."
+          "title": "Ist-Aufnahme der Steuerung",
+          "body": "Wir identifizieren gemeinsam, wo heute Steuerung zwischen Rollen und Tools verloren geht."
         },
         {
-          "title": "Wir bauen in einer Woche",
-          "body": "Ihre Landing Page oder Website wird mit Copy, responsive Design, Dark/Light Mode und Performance-Optimierung gebaut."
+          "title": "Abbildung der Kernprozesse",
+          "body": "Projektstatus, Zuständigkeiten, Übergaben und Kapazität werden in einem einheitlichen Ablauf modelliert."
         },
         {
-          "title": "Eine Revision inklusive, dann Launch",
-          "body": "Prüfen, mit Ihrer inkludierten Revision Anpassungen vornehmen und deployen. Quellcode wird geliefert."
+          "title": "Test im laufenden Betrieb",
+          "body": "Sie prüfen den Ansatz an realen Projekten und bewerten Nutzen, Aufwand und Fit für Ihr Büro."
         }
       ]
     },
     "useCases": {
-      "heading": "Perfekt für",
-      "subtitle": "Gebaut für Agenturen und Teams",
+      "heading": "Für wen der Ansatz gedacht ist",
+      "subtitle": "Für Büros mit mehreren parallelen Projekten und hoher Koordinationslast",
       "items": [
         {
-          "title": "Agenturen",
-          "body": "Liefern Sie Kunden-Websites und Landing Pages mit vorhersagbaren Zeiten und konsistenter Qualität."
+          "title": "Geschäftsführer",
+          "body": "Benötigen eine verlässliche Sicht auf Projektstatus, Auslastung, Risiken und Ergebnisbeitrag."
         },
         {
-          "title": "Produktlaunches",
-          "body": "Erhalten Sie eine professionelle Landing Page, geliefert in einer Woche für Ihren Launch."
+          "title": "Bereichsleiter",
+          "body": "Steuern Ressourcen über mehrere Projekte und müssen Prioritäten belastbar setzen."
         },
         {
-          "title": "Marketingkampagnen",
-          "body": "Erstellen Sie dedizierte Seiten für Kampagnen mit schnellem Turnaround."
+          "title": "Projektleiter",
+          "body": "Brauchen klare Zuständigkeiten und saubere Übergaben, um Termine und Budgets stabil zu führen."
         }
       ]
     },
     "integrations": {
-      "heading": "Funktioniert mit Ihrem Stack",
-      "subtitle": "Einfache Übergabe an Ihre bestehenden Tools",
+      "heading": "Anschluss an bestehende Arbeitsmittel",
+      "subtitle": "Nicht als Ersatz für alles, sondern als Steuerungsebene",
       "integrations": [
-        { "name": "Vercel" },
-        { "name": "Netlify" },
-        { "name": "CMS" },
-        { "name": "Analytics" },
-        { "name": "Zahlungen" },
-        { "name": "E-Mail-Tools" }
+        {
+          "name": "E-Mail"
+        },
+        {
+          "name": "DMS"
+        },
+        {
+          "name": "Projektmanagement-Tools"
+        },
+        {
+          "name": "Zeiterfassung"
+        },
+        {
+          "name": "Controlling"
+        },
+        {
+          "name": "Reporting"
+        }
       ]
     },
     "security": {
-      "heading": "Code-Qualität",
-      "subtitle": "Produktionsreifer Code, dem Sie vertrauen können",
+      "heading": "Konkreter operativer Nutzen",
+      "subtitle": "Verbesserungen, die im Tagesgeschäft messbar werden",
       "items": [
         {
-          "title": "Enterprise-Qualität Code",
-          "body": "Wohlstrukturierter, wartbarer Code nach Best Practices."
+          "title": "Frühere Eskalation statt Feuerwehrmodus",
+          "body": "Risiken werden vor Terminverzug und Margenschaden sichtbar."
         },
         {
-          "title": "SEO-fähige Struktur",
-          "body": "Gebaut mit Fokus auf Sichtbarkeit und Performance-Optimierung."
+          "title": "Weniger Reibung in Abstimmung und Übergabe",
+          "body": "Weniger Nachfragen, weniger Doppelarbeit, weniger Informationsverlust."
         },
         {
-          "title": "Responsive + Dark/Light Mode",
-          "body": "Auf allen Geräten getestet mit Theme-Support inklusive."
+          "title": "Belastbarere Steuerungsentscheidungen",
+          "body": "Führung entscheidet auf Basis eines gemeinsamen, aktuellen Projektbilds."
         }
       ]
     },
     "metrics": {
-      "heading": "Bewährte Performance",
-      "subtitle": "Ergebnisse, die für sich sprechen",
+      "heading": "Was Sie operativ gewinnen",
+      "subtitle": "4 zentrale Effekte für Projektführung und Profitabilität",
       "metrics": [
         {
-          "value": "7 Tage",
-          "label": "Durchschnittliche Lieferzeit",
-          "description": "Vom Kickoff bis zum Deployment"
+          "value": "Mehr",
+          "label": "Verantwortungsklarheit",
+          "description": "Zuständigkeiten und nächste Schritte sind je Projektphase eindeutig."
         },
         {
-          "value": "100 %",
-          "label": "Definierter Scope",
-          "description": "Keine Überraschungen im Projektverlauf"
+          "value": "Früher",
+          "label": "Risikotransparenz",
+          "description": "Termin-, Kapazitäts- und Ergebnisrisiken werden rechtzeitig sichtbar."
         },
         {
-          "value": "0 Tage",
-          "label": "Deployment-Standard",
-          "description": "Kein zusätzlicher Vorbereitungsaufwand"
+          "value": "Weniger",
+          "label": "Steuerungsverlust",
+          "description": "Übergaben und Abstimmungen laufen strukturiert statt ad hoc."
+        },
+        {
+          "value": "Stabiler",
+          "label": "Projektmarge",
+          "description": "Abweichungen werden früher adressiert, bevor sie Ergebnis kosten."
         }
       ]
     },
     "pricing": {
-      "heading": "Einfache Preisgestaltung",
-      "subtitle": "Wählen Sie den Plan, der für Sie funktioniert",
+      "heading": "Pilot statt Vollrollout",
+      "subtitle": "Für den Demand-Test zählen Passung und Wirkung",
       "plans": [
         {
-          "name": "Einzelne Seite",
-          "price": "990€",
-          "description": "Eine Landing Page",
+          "name": "Pilotphase",
+          "price": "Auf Anfrage",
+          "description": "Validierung im realen Projektbetrieb",
           "features": [
-            "1 Landing Page",
-            "1 Revision inklusive",
-            "Deployment inklusive",
-            "Quellcode inklusive"
+            "Analyse der aktuellen Steuerungspraxis",
+            "Abbildung zentraler Projekt- und Kapazitätsprozesse",
+            "Begleitete Einführung mit ausgewählten Projekten",
+            "Gemeinsame Auswertung von Nutzen und Fit"
           ],
-          "ctaLabel": "Loslegen"
-        },
-        {
-          "name": "Paket",
-          "price": "2.490€",
-          "description": "3 Seiten",
-          "features": [
-            "3 Seiten",
-            "1 Revision inklusive",
-            "Deployment inklusive",
-            "Quellcode inklusive"
-          ],
-          "ctaLabel": "Loslegen"
-        },
-        {
-          "name": "Enterprise",
-          "price": "Individuell",
-          "description": "Individueller Scope",
-          "features": [
-            "Individueller Scope",
-            "Scope vorab definiert",
-            "Deployment inklusive",
-            "Quellcode inklusive"
-          ],
-          "ctaLabel": "Verkauf kontaktieren"
+          "ctaLabel": "Pilotgespräch anfragen"
         }
       ]
     },
     "faq": {
-      "heading": "Häufig gestellte Fragen",
-      "subtitle": "Alles was Sie wissen müssen",
+      "heading": "Häufige Fragen zum Pilot",
+      "subtitle": "Kurz und konkret",
       "items": [
         {
-          "question": "Wie lange dauert es?",
-          "answer": "Typische Zeitschiene ist eine Woche von den Anforderungen bis zum Deployment."
+          "question": "Ersetzen wir damit unser bestehendes ERP?",
+          "answer": "Nein. Der Fokus liegt auf operativer Projektsteuerung, nicht auf einem generischen ERP-Ansatz."
         },
         {
-          "question": "Kann ich nach der Übergabe Änderungen vornehmen?",
-          "answer": "Eine Revision ist inklusive. Zusätzliche Revisionen kosten 100 € pro Revision. Sie erhalten auch den Quellcode, um Updates selbst vorzunehmen."
+          "question": "Müssen wir alle Tools ablösen?",
+          "answer": "Nein. Die Lösung setzt als Steuerungsebene auf bestehende Arbeitsmittel auf."
         },
         {
-          "question": "Was muss ich bereitstellen?",
-          "answer": "Anforderungen, Ziele und Brand-Assets. Falls nötig, Zugriff für Deployment. Wir übernehmen Design, Entwicklung und Optimierung."
+          "question": "Für welche Büros ist das sinnvoll?",
+          "answer": "Für Planungs- und Ingenieurbüros mit mehreren parallelen Projekten und spürbarer Koordinationslast."
         }
       ]
     },
     "testimonials": {
-      "heading": "Was unsere Kunden sagen",
-      "subtitle": "Vertraut von Gründern und Agenturen",
+      "heading": "Stimmen aus Pilotgesprächen",
+      "subtitle": "Typische Rückmeldungen aus der Zielgruppe",
       "testimonials": [
         {
-          "quote": "Wir brauchten schnell eine Landing Page für unseren Produktlaunch. Sie haben genau das geliefert, was wir brauchten, pünktlich.",
-          "name": "Sarah Johnson",
-          "role": "Gründerin",
-          "metric": "Schnelle Lieferung"
+          "quote": "Genau diese Lücke haben wir zwischen Projektleitung und Bereichssteuerung.",
+          "name": "Geschäftsführer",
+          "role": "Ingenieurbüro",
+          "metric": "Mehr Steuerungssicherheit"
         },
         {
-          "quote": "Die Qualität ist außergewöhnlich und die Geschwindigkeit ist unübertroffen. Die beste Investition dieses Quartal.",
-          "name": "Michael Chen",
-          "role": "Marketing-Direktor",
-          "metric": "Vorhersagbarer Scope"
+          "quote": "Wenn wir Risiken zwei Wochen früher sehen, sparen wir echte Marge.",
+          "name": "Bereichsleiter",
+          "role": "Fachplanung",
+          "metric": "Frühere Gegenmaßnahmen"
         },
         {
-          "quote": "Als Agentur nutzen wir sie für alle Kunden-Landing-Pages. Konsistente Qualität jedes Mal.",
-          "name": "Emma Williams",
-          "role": "Creative Director",
-          "metric": "Performance-Ready"
+          "quote": "Für uns zählt, dass Verantwortungen und Übergaben endlich sauber geführt werden.",
+          "name": "Projektleiter",
+          "role": "Planungsbüro",
+          "metric": "Weniger Reibungsverluste"
         }
       ]
     },
     "finalCta": {
-      "heading": "Bereit loszulegen?",
-      "subtitle": "Erhalten Sie Ihre Landing Page oder Website geliefert in einer Woche",
-      "ctaLabel": "Loslegen"
+      "heading": "Operative Steuerung im eigenen Büro testen",
+      "subtitle": "Wir suchen Pilotpartner für frühes Feedback. Im Gespräch prüfen wir gemeinsam, ob der Ansatz zu Ihrer Projektlandschaft passt.",
+      "ctaLabel": "Frühen Zugang sichern"
     }
   }
 }
-
