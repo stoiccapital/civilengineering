@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import { spacing, layout, navbar, ColorTheme } from '../config/design-system';
 import { CTAButton } from './ui/CTAButton';
+import { LocaleToggle } from './ui/LocaleToggle';
 
 export type NavbarLabels = {
   brand: string;
@@ -96,10 +97,11 @@ export function Navbar({ theme, labels, locale }: NavbarProps) {
             ))}
           </div>
           
-          {/* Right: CTA + Hamburger (Mobile) */}
+          {/* Right: Locale + CTA + Hamburger (Mobile) */}
           <div className={`flex items-center ${spacing.gap.sm}`}>
-            {/* Desktop: CTA */}
+            {/* Desktop: Locale toggle + CTA */}
             <div className={`hidden md:flex items-center ${spacing.gap.sm}`}>
+              <LocaleToggle />
               <CTAButton variant="primary" theme={theme} label={labels.cta} />
             </div>
 
@@ -149,6 +151,11 @@ export function Navbar({ theme, labels, locale }: NavbarProps) {
             className={`md:hidden border-t ${navbar.borderColor} ${spacing.block.y.md}`}
           >
             <div className={`flex flex-col ${spacing.block.y.md}`}>
+              {/* Language Toggle (Mobile) */}
+              <div className={`flex items-center ${spacing.gap.sm} ${spacing.block.y.sm}`}>
+                <LocaleToggle />
+              </div>
+
               {/* Navigation Links (Mobile) */}
               {navLinks.map((link) => (
                 <a

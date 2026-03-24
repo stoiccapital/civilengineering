@@ -1,226 +1,460 @@
 {
-  "example-lp": {
+  "agency-lp": {
     "hero": {
-      "eyebrow": "Productized Landing Pages",
-      "title": "Enterprise-grade landing pages, delivered in one week",
-      "subtitle": "Product-grade landing pages and multi-page websites for agencies. Scope defined upfront, predictable delivery.",
-      "primaryCtaLabel": "Get Started",
-      "secondaryCtaLabel": "Learn More"
+      "eyebrow": "For planning and engineering offices",
+      "title": "Operational control for active projects.",
+      "subtitle": "When projects run across Excel, email, and fragmented knowledge, execution friction grows. Our software creates clear ownership, reliable capacity planning, and visibility into status, risk, and margin.",
+      "primaryCtaLabel": "Request pilot conversation",
+      "secondaryCtaLabel": "Get early access"
     },
     "socialProof": {
+      "label": "In validation with selected firms"
     },
     "valueProps": {
-      "heading": "Everything you need",
-      "subtitle": "Professional landing pages that convert",
+      "heading": "Where operational control breaks today",
+      "subtitle": "Familiar patterns in day-to-day project delivery",
       "items": [
         {
-          "title": "One Week Delivery",
-          "body": "From requirements to deployed site in one week."
+          "title": "Excel chaos instead of shared visibility",
+          "body": "Project status lives in multiple files with inconsistent updates."
         },
         {
-          "title": "Consistent System",
-          "body": "Enterprise-grade structure and patterns every time."
+          "title": "Scattered workflows",
+          "body": "Information is split across email, DMS, PM tools, and people's heads."
         },
         {
-          "title": "Performance Ready",
-          "body": "Optimized code, responsive design, SEO-ready structure."
+          "title": "Unclear responsibilities",
+          "body": "Ownership and due dates are not consistently documented or traceable."
+        },
+        {
+          "title": "Weak project handoffs",
+          "body": "Context and decisions are lost between teams and roles."
+        },
+        {
+          "title": "Risks appear too late",
+          "body": "Schedule, effort, and margin deviations surface when corrective action is already expensive."
         }
       ]
     },
     "features": {
-      "heading": "Built for results",
-      "subtitle": "Everything that makes landing pages perform",
+      "heading": "An operating system for project execution",
+      "subtitle": "Built for project control, capacity, and profitability",
       "items": [
         {
-          "title": "Bilingual Copy Included",
-          "body": "English and German copy included by default."
+          "title": "Project control with clear ownership",
+          "body": "Tasks, decisions, and open issues are assigned by phase and role."
         },
         {
-          "title": "Performance Optimization",
-          "body": "Fast load times and optimized assets built in."
+          "title": "Structured handoffs",
+          "body": "Handoffs between management, project leads, and delivery teams are standardized and traceable."
         },
         {
-          "title": "Deployment Ready",
-          "body": "Deployed and ready to go, source code included."
+          "title": "Continuous capacity and risk visibility",
+          "body": "Resource bottlenecks, schedule risks, and delivery conflicts become visible early."
+        },
+        {
+          "title": "Profitability in daily operations",
+          "body": "Effort and margin deviations are visible continuously, not only after project close."
         }
       ]
     },
     "deepDive": {
-      "heading": "How it works",
-      "subtitle": "One week from start to launch",
+      "heading": "How a pilot works",
+      "subtitle": "Practical, focused, based on real project data",
       "steps": [
         {
-          "title": "Define scope upfront",
-          "body": "Share requirements, goals, and brand assets. Scope is defined before work begins."
+          "title": "Baseline assessment",
+          "body": "Together, we identify where control is currently lost across tools and roles."
         },
         {
-          "title": "We build in one week",
-          "body": "Your landing page or website is built with copy, responsive design, dark/light mode, and performance optimization."
+          "title": "Core process mapping",
+          "body": "Project status, ownership, handoffs, and capacity are modeled in one structured flow."
         },
         {
-          "title": "One revision included, then launch",
-          "body": "Review, make adjustments with your included revision, and deploy. Source code delivered."
+          "title": "Live test in operations",
+          "body": "You validate the approach on real projects and evaluate impact, effort, and fit."
         }
       ]
     },
     "useCases": {
-      "heading": "Perfect for",
-      "subtitle": "Built for agencies and teams",
+      "heading": "Who this is for",
+      "subtitle": "For firms running multiple projects in parallel under coordination pressure",
       "items": [
         {
-          "title": "Agencies",
-          "body": "Deliver client websites and landing pages with predictable timelines and consistent quality."
+          "title": "Managing directors",
+          "body": "Need reliable visibility across project status, utilization, risks, and contribution margin."
         },
         {
-          "title": "Product Launches",
-          "body": "Get a professional landing page delivered in one week for your launch."
+          "title": "Department heads",
+          "body": "Coordinate resources across projects and need to set priorities on solid operational data."
         },
         {
-          "title": "Marketing Campaigns",
-          "body": "Create dedicated pages for campaigns with fast turnaround."
+          "title": "Project managers",
+          "body": "Need clear ownership and clean handoffs to keep schedule and budget execution stable."
         }
       ]
     },
     "integrations": {
-      "heading": "Works with your stack",
-      "subtitle": "Easy handoff to your existing tools",
+      "heading": "Connected to existing tools",
+      "subtitle": "Not a replacement for everything, but a control layer",
       "integrations": [
-        { "name": "Vercel" },
-        { "name": "Netlify" },
-        { "name": "CMS" },
-        { "name": "Analytics" },
-        { "name": "Payments" },
-        { "name": "Email Tools" }
+        {
+          "name": "Email"
+        },
+        {
+          "name": "DMS"
+        },
+        {
+          "name": "Project management tools"
+        },
+        {
+          "name": "Time tracking"
+        },
+        {
+          "name": "Controlling"
+        },
+        {
+          "name": "Reporting"
+        }
       ]
     },
     "security": {
-      "heading": "Code quality",
-      "subtitle": "Production-ready code you can trust",
+      "heading": "Concrete operational outcomes",
+      "subtitle": "Improvements that are visible in day-to-day delivery",
       "items": [
         {
-          "title": "Enterprise-Grade Code",
-          "body": "Well-structured, maintainable code following best practices."
+          "title": "Earlier escalation instead of firefighting",
+          "body": "Risks surface before schedule slippage and margin loss occur."
         },
         {
-          "title": "SEO-Ready Structure",
-          "body": "Built with search visibility and performance optimization."
+          "title": "Less friction in coordination and handoffs",
+          "body": "Fewer follow-ups, less duplicate work, less information loss."
         },
         {
-          "title": "Responsive + Dark/Light Mode",
-          "body": "Tested across devices with theme support included."
+          "title": "More reliable management decisions",
+          "body": "Leaders decide based on one shared and current operational view."
         }
       ]
     },
     "metrics": {
-      "heading": "Proven performance",
-      "subtitle": "Results that speak for themselves",
+      "heading": "What you gain operationally",
+      "subtitle": "4 core effects on delivery control and profitability",
       "metrics": [
         {
-          "value": "7 days",
-          "label": "Average delivery time",
-          "description": "From kickoff to deployment"
+          "value": "More",
+          "label": "Ownership clarity",
+          "description": "Responsibilities and next steps are explicit by project phase."
         },
         {
-          "value": "100%",
-          "label": "Defined scope",
-          "description": "No surprises during execution"
+          "value": "Earlier",
+          "label": "Risk visibility",
+          "description": "Schedule, capacity, and financial risks become visible in time."
         },
         {
-          "value": "0 days",
-          "label": "Deployment standard",
-          "description": "No additional preparation required"
+          "value": "Less",
+          "label": "Control loss",
+          "description": "Handoffs and coordination run in a structured process instead of ad hoc."
+        },
+        {
+          "value": "More stable",
+          "label": "Project margin",
+          "description": "Deviation is addressed earlier, before it erodes project results."
         }
       ]
     },
     "pricing": {
-      "heading": "Simple pricing",
-      "subtitle": "Choose the plan that works for you",
+      "heading": "Pilot before full rollout",
+      "subtitle": "For demand testing, fit and impact matter most",
       "plans": [
         {
-          "name": "Single Page",
-          "price": "$1,190",
-          "description": "One landing page",
+          "name": "Pilot phase",
+          "price": "On request",
+          "description": "Validation in live project operations",
           "features": [
-            "1 landing page",
-            "1 revision included",
-            "Deployment included",
-            "Source code included"
+            "Assessment of current control routines",
+            "Mapping of core project and capacity workflows",
+            "Guided rollout with selected projects",
+            "Joint evaluation of impact and fit"
           ],
-          "ctaLabel": "Get Started"
-        },
-        {
-          "name": "Package",
-          "price": "$2,990",
-          "description": "3 pages",
-          "features": [
-            "3 pages",
-            "1 revision included",
-            "Deployment included",
-            "Source code included"
-          ],
-          "ctaLabel": "Get Started"
-        },
-        {
-          "name": "Enterprise",
-          "price": "Custom",
-          "description": "Custom scope",
-          "features": [
-            "Custom scope",
-            "Scope defined upfront",
-            "Deployment included",
-            "Source code included"
-          ],
-          "ctaLabel": "Contact Sales"
+          "ctaLabel": "Request pilot conversation"
         }
       ]
     },
     "faq": {
-      "heading": "Frequently asked questions",
-      "subtitle": "Everything you need to know",
+      "heading": "Common pilot questions",
+      "subtitle": "Short and specific",
       "items": [
         {
-          "question": "How long does it take?",
-          "answer": "Typical timeline is one week from requirements to deployment."
+          "question": "Does this replace our existing ERP?",
+          "answer": "No. The focus is operational project control, not a generic ERP replacement."
         },
         {
-          "question": "Can I make changes after delivery?",
-          "answer": "One revision is included. Additional revisions are $100 per revision. You also receive source code to make updates yourself."
+          "question": "Do we need to replace all current tools?",
+          "answer": "No. The software is designed as a control layer on top of existing tools."
         },
         {
-          "question": "What do I need to provide?",
-          "answer": "Requirements, goals, and brand assets. If needed, access for deployment. We handle design, development, and optimization."
+          "question": "Who is this relevant for?",
+          "answer": "Planning and engineering offices running multiple active projects with high coordination load."
         }
       ]
     },
     "testimonials": {
-      "heading": "What our customers say",
-      "subtitle": "Trusted by founders and agencies",
+      "heading": "Voices from pilot discussions",
+      "subtitle": "Typical feedback from the target audience",
       "testimonials": [
         {
-          "quote": "We needed a landing page fast for our product launch. They delivered exactly what we needed on time.",
-          "name": "Sarah Johnson",
-          "role": "Founder",
-          "metric": "Fast delivery"
+          "quote": "This is exactly the gap we have between project management and department control.",
+          "name": "Managing Director",
+          "role": "Engineering Office",
+          "metric": "Higher control reliability"
         },
         {
-          "quote": "The quality is exceptional and the speed is unmatched. Best investment we made this quarter.",
-          "name": "Michael Chen",
-          "role": "Marketing Director",
-          "metric": "Predictable scope"
+          "quote": "If we see risks two weeks earlier, we protect real margin.",
+          "name": "Department Head",
+          "role": "Specialist Planning Firm",
+          "metric": "Earlier intervention"
         },
         {
-          "quote": "As an agency, we use them for all our client landing pages. Consistent quality every time.",
-          "name": "Emma Williams",
-          "role": "Creative Director",
-          "metric": "Performance ready"
+          "quote": "For us, clear ownership and structured handoffs are the key.",
+          "name": "Project Manager",
+          "role": "Planning Office",
+          "metric": "Less operational friction"
         }
       ]
     },
     "finalCta": {
-      "heading": "Ready to get started?",
-      "subtitle": "Get your landing page or website delivered in one week",
-      "ctaLabel": "Get Started"
+      "heading": "Test operational control in your own office",
+      "subtitle": "We are onboarding pilot partners for early feedback. In a short conversation, we assess whether the approach fits your project landscape.",
+      "ctaLabel": "Get early access"
+    }
+  },
+  "example-lp": {
+    "hero": {
+      "eyebrow": "For planning and engineering offices",
+      "title": "Operational control for active projects.",
+      "subtitle": "When projects run across Excel, email, and fragmented knowledge, execution friction grows. Our software creates clear ownership, reliable capacity planning, and visibility into status, risk, and margin.",
+      "primaryCtaLabel": "Request pilot conversation",
+      "secondaryCtaLabel": "Get early access"
+    },
+    "socialProof": {
+      "label": "In validation with selected firms"
+    },
+    "valueProps": {
+      "heading": "Where operational control breaks today",
+      "subtitle": "Familiar patterns in day-to-day project delivery",
+      "items": [
+        {
+          "title": "Excel chaos instead of shared visibility",
+          "body": "Project status lives in multiple files with inconsistent updates."
+        },
+        {
+          "title": "Scattered workflows",
+          "body": "Information is split across email, DMS, PM tools, and people's heads."
+        },
+        {
+          "title": "Unclear responsibilities",
+          "body": "Ownership and due dates are not consistently documented or traceable."
+        },
+        {
+          "title": "Weak project handoffs",
+          "body": "Context and decisions are lost between teams and roles."
+        },
+        {
+          "title": "Risks appear too late",
+          "body": "Schedule, effort, and margin deviations surface when corrective action is already expensive."
+        }
+      ]
+    },
+    "features": {
+      "heading": "An operating system for project execution",
+      "subtitle": "Built for project control, capacity, and profitability",
+      "items": [
+        {
+          "title": "Project control with clear ownership",
+          "body": "Tasks, decisions, and open issues are assigned by phase and role."
+        },
+        {
+          "title": "Structured handoffs",
+          "body": "Handoffs between management, project leads, and delivery teams are standardized and traceable."
+        },
+        {
+          "title": "Continuous capacity and risk visibility",
+          "body": "Resource bottlenecks, schedule risks, and delivery conflicts become visible early."
+        },
+        {
+          "title": "Profitability in daily operations",
+          "body": "Effort and margin deviations are visible continuously, not only after project close."
+        }
+      ]
+    },
+    "deepDive": {
+      "heading": "How a pilot works",
+      "subtitle": "Practical, focused, based on real project data",
+      "steps": [
+        {
+          "title": "Baseline assessment",
+          "body": "Together, we identify where control is currently lost across tools and roles."
+        },
+        {
+          "title": "Core process mapping",
+          "body": "Project status, ownership, handoffs, and capacity are modeled in one structured flow."
+        },
+        {
+          "title": "Live test in operations",
+          "body": "You validate the approach on real projects and evaluate impact, effort, and fit."
+        }
+      ]
+    },
+    "useCases": {
+      "heading": "Who this is for",
+      "subtitle": "For firms running multiple projects in parallel under coordination pressure",
+      "items": [
+        {
+          "title": "Managing directors",
+          "body": "Need reliable visibility across project status, utilization, risks, and contribution margin."
+        },
+        {
+          "title": "Department heads",
+          "body": "Coordinate resources across projects and need to set priorities on solid operational data."
+        },
+        {
+          "title": "Project managers",
+          "body": "Need clear ownership and clean handoffs to keep schedule and budget execution stable."
+        }
+      ]
+    },
+    "integrations": {
+      "heading": "Connected to existing tools",
+      "subtitle": "Not a replacement for everything, but a control layer",
+      "integrations": [
+        {
+          "name": "Email"
+        },
+        {
+          "name": "DMS"
+        },
+        {
+          "name": "Project management tools"
+        },
+        {
+          "name": "Time tracking"
+        },
+        {
+          "name": "Controlling"
+        },
+        {
+          "name": "Reporting"
+        }
+      ]
+    },
+    "security": {
+      "heading": "Concrete operational outcomes",
+      "subtitle": "Improvements that are visible in day-to-day delivery",
+      "items": [
+        {
+          "title": "Earlier escalation instead of firefighting",
+          "body": "Risks surface before schedule slippage and margin loss occur."
+        },
+        {
+          "title": "Less friction in coordination and handoffs",
+          "body": "Fewer follow-ups, less duplicate work, less information loss."
+        },
+        {
+          "title": "More reliable management decisions",
+          "body": "Leaders decide based on one shared and current operational view."
+        }
+      ]
+    },
+    "metrics": {
+      "heading": "What you gain operationally",
+      "subtitle": "4 core effects on delivery control and profitability",
+      "metrics": [
+        {
+          "value": "More",
+          "label": "Ownership clarity",
+          "description": "Responsibilities and next steps are explicit by project phase."
+        },
+        {
+          "value": "Earlier",
+          "label": "Risk visibility",
+          "description": "Schedule, capacity, and financial risks become visible in time."
+        },
+        {
+          "value": "Less",
+          "label": "Control loss",
+          "description": "Handoffs and coordination run in a structured process instead of ad hoc."
+        },
+        {
+          "value": "More stable",
+          "label": "Project margin",
+          "description": "Deviation is addressed earlier, before it erodes project results."
+        }
+      ]
+    },
+    "pricing": {
+      "heading": "Pilot before full rollout",
+      "subtitle": "For demand testing, fit and impact matter most",
+      "plans": [
+        {
+          "name": "Pilot phase",
+          "price": "On request",
+          "description": "Validation in live project operations",
+          "features": [
+            "Assessment of current control routines",
+            "Mapping of core project and capacity workflows",
+            "Guided rollout with selected projects",
+            "Joint evaluation of impact and fit"
+          ],
+          "ctaLabel": "Request pilot conversation"
+        }
+      ]
+    },
+    "faq": {
+      "heading": "Common pilot questions",
+      "subtitle": "Short and specific",
+      "items": [
+        {
+          "question": "Does this replace our existing ERP?",
+          "answer": "No. The focus is operational project control, not a generic ERP replacement."
+        },
+        {
+          "question": "Do we need to replace all current tools?",
+          "answer": "No. The software is designed as a control layer on top of existing tools."
+        },
+        {
+          "question": "Who is this relevant for?",
+          "answer": "Planning and engineering offices running multiple active projects with high coordination load."
+        }
+      ]
+    },
+    "testimonials": {
+      "heading": "Voices from pilot discussions",
+      "subtitle": "Typical feedback from the target audience",
+      "testimonials": [
+        {
+          "quote": "This is exactly the gap we have between project management and department control.",
+          "name": "Managing Director",
+          "role": "Engineering Office",
+          "metric": "Higher control reliability"
+        },
+        {
+          "quote": "If we see risks two weeks earlier, we protect real margin.",
+          "name": "Department Head",
+          "role": "Specialist Planning Firm",
+          "metric": "Earlier intervention"
+        },
+        {
+          "quote": "For us, clear ownership and structured handoffs are the key.",
+          "name": "Project Manager",
+          "role": "Planning Office",
+          "metric": "Less operational friction"
+        }
+      ]
+    },
+    "finalCta": {
+      "heading": "Test operational control in your own office",
+      "subtitle": "We are onboarding pilot partners for early feedback. In a short conversation, we assess whether the approach fits your project landscape.",
+      "ctaLabel": "Get early access"
     }
   }
 }
-
